@@ -10,3 +10,13 @@ html {
   padding: 4em;
   color: #d6cfb3;
 }
+
+.subheader {
+  font-size: 2em;
+  margin-top: -.5em;
+}
+
+footer {
+  text-align: center;
+  color: #d6cfb3;
+}
