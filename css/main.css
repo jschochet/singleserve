@@ -1,0 +1,12 @@
+html {
+  background-color: black;
+}
+
+.container-fluid {
+  background-color: #2d2c2b;
+}
+
+.column {
+  padding: 4em;
+  color: #d6cfb3;
+}
