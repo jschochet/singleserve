@@ -1,26 +1,3 @@
-html {
-  background-color: none;
-}
-
-.container-fluid {
-  background-color: #2d2c2b;
-}
-
-.column {
-  padding: 4em;
-  color: #d6cfb3;
-}
-
-.subheader {
-  font-size: 2em;
-  margin-top: -.5em;
-}
-
-footer {
-  text-align: center;
-  color: #d6cfb3;
-}
-
-#main-container{
-  height: 100%;
+.bg-primary {
+  background-color: #00a7b3;
 }
