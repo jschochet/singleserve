@@ -39,12 +39,12 @@
   font-size: 18px;
 }
 
-#adelieinfo, #africaninfo, #emperorinfo, #rockhopperinfo, #littleinfo, #chinstrapinfo {
-  font-size: 25px;
+header .display-2 {
+  font-size: 3.5rem;
 }
 
-@media (max-width: 768px): {
+@media (min-width: 675px) {
    #adelieinfo, #africaninfo, #emperorinfo, #rockhopperinfo, #littleinfo, #chinstrapinfo {
-    font-size: 12px;
+    font-size: 25px;
 }
   }
