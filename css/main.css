@@ -1,11 +1,16 @@
-#adelieall {
-    background-color: #7daed3;
+#adelie, #african, #emperor, #rockhopper, #little, #chinstrap {
+  font-size: 45px;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
 }
 
-
-#adelie {
-  font-size: 55px;
+#adelieinfo, #africaninfo, #emperorinfo, #rockhopperinfo, #littleinfo, #chinstrapinfo {
+  font-size: 25px;
   margin-bottom: 3rem;
+}
+
+#adelieall {
+    background-color: #7daed3;
 }
 
 #africanall {
