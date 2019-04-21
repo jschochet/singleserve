@@ -35,6 +35,14 @@
   margin-bottom: -45px
 }
 
+a {
+  color: black;
+}
+
+a:hover {
+  color: #595a5a;
+}
+
 .h6 {
   font-size: 18px;
 }
